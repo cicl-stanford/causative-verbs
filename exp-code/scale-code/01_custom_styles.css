@@ -1,0 +1,105 @@
+/* In this file you can overwrite/extend the given magpie-styles or declare your own ones */
+
+/* Example of extending a given magpie-style */
+
+/*.magpie-view-stimulus-container {
+    height: auto;
+    max-height: 350px;
+} */
+
+/* Display all titles in red */
+/*.magpie-view-title {
+    color: red;
+}*/
+
+/* Example of declaring your own style */
+.custom-border {
+   border: 1px solid powderblue;
+}
+
+.img.animated-gif{
+  width: 520px;
+  height: auto;
+}
+
+/* video.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: "320";
+  height: "240";
+} */
+
+/*
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+  height: auto;
+}
+
+.content-container {
+  max-width: 800px;
+  margin: auto;
+  color: black;
+  background: blue;
+}
+
+.left {
+  text-align: right;
+  width: 50%;
+} */
+
+/* Split the screen in half */
+/* .split {
+  height: 100%;
+  width: 50%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+} */
+
+/* Control the left side */
+/* .left {
+  left: 0;
+  width: 42%;
+} */
+/*
+ul {
+display: table;
+margin: 0 auto;
+} */
+
+/* h1 {
+  text-align: center;
+} */
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+/* Control the right side */
+/* .right {
+  right: 0;
+  padding-top: 50px;
+  width: 58%;
+  zoom: 0.8;
+  font-style: normal ;
+} */
+
+#stim-gif {
+  width: 100%;
+}
+
+
+
+/* img.gif {
+  width: 500px;
+  height: auto;
+} */
