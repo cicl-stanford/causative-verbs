@@ -74,5 +74,4 @@ You can see a demo of the experiment [here](https://mellifluous-semifreddo-3bdde
 #### images
 
 - copyright-free images of entities needed for the script, such as the farmer, wizard, and rock
-=======
-# causative-verbs
+
