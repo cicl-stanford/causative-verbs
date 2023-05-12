@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # A Semantics for Causing, Enabling, and Preventing Verbs using Structural Causal Models
 
 This repository contains the experiments, data, analyses, and figures for the paper ["A Semantics for Causing, Enabling, and Preventing Verbs using Structural Causal Models"](https://google.com) by Angela Cao* (angelacao@outlook.com), Atticus Geiger, Elisa Kreiss, Thomas Icard, and Tobias Gerstenberg (gerstenberg@stanford.edu).
@@ -74,3 +75,6 @@ You can see a demo of the experiment [here](https://mellifluous-semifreddo-3bdde
 #### images
 
 - copyright-free images of entities needed for the script, such as the farmer, wizard, and rock
+=======
+# causative-verbs
+>>>>>>> 4428863a64f9591c563f24951aa648a3b53f2037
