@@ -7,9 +7,6 @@ This repository contains the experiments, data, analyses, and figures for the pa
 ## Abstract
 When choosing how to describe what happened, we have a number of causal verbs at our disposal. In this paper, we develop a model-theoretic formal semantics for nine causal verbs that span the categories of CAUSE, ENABLE, and PREVENT. We use structural causal models (SCMs) to represent participants' mental construction of a scene when assessing the correctness of causal expressions relative to a presented context. Furthermore, SCMs enable us to model events relating both the physical world as well as agents' mental states. In experimental evaluations, we find that the proposed semantics exhibits a closer alignment with human evaluations in comparison to prior accounts of the verb families.
 
-## Pre-registrations
-- the pre-registrations for all experiments may be accessed via the Open Science Framework [here](https://osf.io/)
-
 ## Demo
 You can see a demo of the experiment [here](https://mellifluous-semifreddo-3bdde2.netlify.app/).
 
