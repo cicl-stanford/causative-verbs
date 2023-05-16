@@ -1,6 +1,6 @@
 # A Semantics for Causing, Enabling, and Preventing Verbs using Structural Causal Models
 
-This repository contains the experiments, data, analyses, and figures for the paper ["A Semantics for Causing, Enabling, and Preventing Verbs using Structural Causal Models"](https://google.com) by Angela Cao* (angelacao@outlook.com), Atticus Geiger*, Elisa Kreiss*, Thomas Icard, and Tobias Gerstenberg (gerstenberg@stanford.edu).
+This repository contains the experiments, data, analyses, and figures for the paper ["A Semantics for Causing, Enabling, and Preventing Verbs using Structural Causal Models"](https://psyarxiv.com/kpu52/) by Angela Cao* (angelacao@outlook.com), Atticus Geiger*, Elisa Kreiss*, Thomas Icard, and Tobias Gerstenberg (gerstenberg@stanford.edu).
 
 (* indicates equal contribution)
 
