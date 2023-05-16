@@ -1,12 +1,9 @@
 ---
 title: "Causal Verbs Analysis for Binary Rock Exp"
-# output: html_document
-output: rmarkdown::github_document
+output: github_document
 ---
 ## Load libraries
 ```{r load libraries}
-# install.packages("tidyverse")
-# install.packages("Hmisc")
 library(tidyverse)
 library(here)
 library(writexl)
@@ -17,19 +14,14 @@ theme_set(theme_bw())
 
 ## Load data
 ```{r}
-# df_import = read_csv(here("data_analysis", "test_data.csv"))
 df_import=read_csv("data1.csv", show_col_types = TRUE) %>%
   filter(submission_id>292) 
-# glimpse(df_import)
-# view(df_import)
-```
-```{r}
+
 df_postQuest = df_import %>%
   select(submission_id,comments, education, gender, languages)
 unique(df_postQuest$comments)
 ```
 ## Gentle preprocessing
-More things to be written
 ```{r}
 library(plyr)
 df_main = df_import %>%
