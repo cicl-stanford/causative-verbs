@@ -23,55 +23,55 @@
 // // The wizard removing the rock {} the farmer to go for the apple. + 100 DOWN 0 UP
 //         {
 //             question: `The wizard <strong>moved</strong> his wand.`,
-//             picture: "images/DOWNHazard100UPHazard0.gif",
+//             picture: "../images/DOWNHazard100UPHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard removing the rock <strong>caused</strong> the farmer to go for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100UPHazard0.gif",
+//             picture: "../images/DOWNHazard100UPHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard removing the rock <strong>got</strong> the farmer to go for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100UPHazard0.gif",
+//             picture: "../images/DOWNHazard100UPHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard removing the rock <strong>enabled</strong> the farmer to go for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100UPHazard0.gif",
+//             picture: "../images/DOWNHazard100UPHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard removing the rock <strong>allowed</strong> the farmer to go for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100UPHazard0.gif",
+//             picture: "../images/DOWNHazard100UPHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard removing the rock <strong>let</strong> the farmer go for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100UPHazard0.gif",
+//             picture: "../images/DOWNHazard100UPHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard removing the rock <strong>prevented</strong> the farmer from going for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100UPHazard0.gif",
+//             picture: "../images/DOWNHazard100UPHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard removing the rock <strong>stopped</strong> the farmer from going for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100UPHazard0.gif",
+//             picture: "../images/DOWNHazard100UPHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard removing the rock <strong>made</strong> the farmer go for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100UPHazard0.gif",
+//             picture: "../images/DOWNHazard100UPHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
@@ -80,55 +80,55 @@
 // [
 //         {
 //             question: `The wizard <strong>moved</strong> his wand.`,
-//             picture: "images/DOWNHazard100DOWNHazard0.gif",
+//             picture: "../images/DOWNHazard100DOWNHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard removing the rock <strong>caused</strong> the farmer to go for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100DOWNHazard0.gif",
+//             picture: "../images/DOWNHazard100DOWNHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard removing the rock <strong>got</strong> the farmer to go for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100DOWNHazard0.gif",
+//             picture: "../images/DOWNHazard100DOWNHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //           },
 //           {
 //             question: `The wizard removing the rock <strong>enabled</strong> the farmer to go for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100DOWNHazard0.gif",
+//             picture: "../images/DOWNHazard100DOWNHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //           },
 //           {
 //             question: `The wizard removing the rock <strong>allowed</strong> the farmer to go for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100DOWNHazard0.gif",
+//             picture: "../images/DOWNHazard100DOWNHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //           },
 //           {
 //             question: `The wizard removing the rock <strong>let</strong> the farmer go for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100DOWNHazard0.gif",
+//             picture: "../images/DOWNHazard100DOWNHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //           },
 //           {
 //             question: `The wizard removing the rock <strong>prevented</strong> the farmer from going for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100DOWNHazard0.gif",
+//             picture: "../images/DOWNHazard100DOWNHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //           },
 //           {
 //             question: `The wizard removing the rock <strong>stopped</strong> the farmer from going for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100DOWNHazard0.gif",
+//             picture: "../images/DOWNHazard100DOWNHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //           },
 //           {
 //               question: `The wizard removing the rock <strong>made</strong> the farmer go for the <strong>apple</strong>.`,
-//               picture: "images/DOWNHazard100DOWNHazard0.gif",
+//               picture: "../images/DOWNHazard100DOWNHazard0.gif",
 //               optionleft: 'Not confident',
 //               optionright: 'Very confident'
 //           },
@@ -137,58 +137,58 @@
 // [
 //         {
 //             question: `The wizard <strong>moved</strong> his wand.`,
-//             picture: "images/UPHazard0UPHazard0.gif",
+//             picture: "../images/UPHazard0UPHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard leaving the path unblocked <strong>caused</strong> the farmer to go for the <strong>apple</strong>.`,
-//             picture: "images/UPHazard0UPHazard0.gif",
+//             picture: "../images/UPHazard0UPHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard leaving the path unblocked <strong>got</strong> the farmer to go for the <strong>apple</strong>.`,
-//             picture: "images/UPHazard0UPHazard0.gif",
+//             picture: "../images/UPHazard0UPHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard leaving the path unblocked <strong>enabled</strong> the farmer to go for the <strong>apple</strong>.`,
-//             picture: "images/UPHazard0UPHazard0.gif",
+//             picture: "../images/UPHazard0UPHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard leaving the path unblocked <strong>allowed</strong> the farmer to go for the <strong>apple</strong>.`,
-//             picture: "images/UPHazard0UPHazard0.gif",
+//             picture: "../images/UPHazard0UPHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `
 //             The wizard leaving the path unblocked <strong>let</strong> the farmer go for the <strong>apple</strong>.`,
-//             picture: "images/UPHazard0UPHazard0.gif",
+//             picture: "../images/UPHazard0UPHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `
 //             The wizard leaving the path unblocked <strong>prevented</strong> the farmer from going for the <strong>apple</strong>.`,
-//             picture: "images/UPHazard0UPHazard0.gif",
+//             picture: "../images/UPHazard0UPHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `
 //             The wizard leaving the path unblocked <strong>stopped</strong> the farmer from going for the <strong>apple</strong>.`,
-//             picture: "images/UPHazard0UPHazard0.gif",
+//             picture: "../images/UPHazard0UPHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard leaving the path unblocked <strong>made</strong> the farmer go for the <strong>apple</strong>.`,
-//             picture: "images/UPHazard0UPHazard0.gif",
+//             picture: "../images/UPHazard0UPHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
@@ -197,55 +197,55 @@
 // [
 //         {
 //             question: `The wizard <strong>moved</strong> his wand.`,
-//             picture: "images/DOWNHazard0DOWNHazard0.gif",
+//             picture: "../images/DOWNHazard0DOWNHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard leaving the path unblocked <strong>caused</strong> the farmer to go for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard0DOWNHazard0.gif",
+//             picture: "../images/DOWNHazard0DOWNHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard leaving the path unblocked <strong>got</strong> the farmer to go for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard0DOWNHazard0.gif",
+//             picture: "../images/DOWNHazard0DOWNHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard leaving the path unblocked <strong>enabled</strong> the farmer to go for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard0DOWNHazard0.gif",
+//             picture: "../images/DOWNHazard0DOWNHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard leaving the path unblocked <strong>allowed</strong> the farmer to go for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard0DOWNHazard0.gif",
+//             picture: "../images/DOWNHazard0DOWNHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard leaving the path unblocked <strong>let</strong> the farmer go for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard0DOWNHazard0.gif",
+//             picture: "../images/DOWNHazard0DOWNHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard leaving the path unblocked <strong>prevented</strong> the farmer from going for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard0DOWNHazard0.gif",
+//             picture: "../images/DOWNHazard0DOWNHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard leaving the path unblocked <strong>stopped</strong> the farmer from going for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard0DOWNHazard0.gif",
+//             picture: "../images/DOWNHazard0DOWNHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard leaving the path unblocked <strong>made</strong> the farmer go for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard0DOWNHazard0.gif",
+//             picture: "../images/DOWNHazard0DOWNHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
@@ -254,55 +254,55 @@
 // // The wizard placing a rock {} the farmer to go for the apple. + 0 UP 100 DOWN
 //         {
 //             question: `The wizard <strong>moved</strong> his wand.`,
-//             picture: "images/UPHazard0DOWNHazard100.gif",
+//             picture: "../images/UPHazard0DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard placing a rock <strong>caused</strong> the farmer to go for the <strong>apple</strong>.`,
-//             picture: "images/UPHazard0DOWNHazard100.gif",
+//             picture: "../images/UPHazard0DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard placing a rock <strong>got</strong> the farmer to go for the <strong>apple</strong>.`,
-//             picture: "images/UPHazard0DOWNHazard100.gif",
+//             picture: "../images/UPHazard0DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard placing a rock <strong>enabled</strong> the farmer to go for the <strong>apple</strong>.`,
-//             picture: "images/UPHazard0DOWNHazard100.gif",
+//             picture: "../images/UPHazard0DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard placing a rock <strong>allowed</strong> the farmer to go for the <strong>apple</strong>.`,
-//             picture: "images/UPHazard0DOWNHazard100.gif",
+//             picture: "../images/UPHazard0DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard placing a rock <strong>let</strong> the farmer go for the <strong>apple</strong>.`,
-//             picture: "images/UPHazard0DOWNHazard100.gif",
+//             picture: "../images/UPHazard0DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard placing a rock <strong>prevented</strong> the farmer from going for the <strong>apple</strong>.`,
-//             picture: "images/UPHazard0DOWNHazard100.gif",
+//             picture: "../images/UPHazard0DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard placing a rock <strong>stopped</strong> the farmer from going for the <strong>apple</strong>.`,
-//             picture: "images/UPHazard0DOWNHazard100.gif",
+//             picture: "../images/UPHazard0DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard placing the rock <strong>made</strong> the farmer go for the <strong>apple</strong>.`,
-//             picture: "images/UPHazard0DOWNHazard100.gif",
+//             picture: "../images/UPHazard0DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
@@ -311,55 +311,55 @@
 // // // The wizard placing a rock {} the farmer to go for the apple. + 0 DOWN 100 DOWN
 //         {
 //             question: `The wizard <strong>moved</strong> his wand.`,
-//             picture: "images/DOWNHazard0DOWNHazard100.gif",
+//             picture: "../images/DOWNHazard0DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard placing a rock <strong>caused</strong> the farmer to go for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard0DOWNHazard100.gif",
+//             picture: "../images/DOWNHazard0DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard placing a rock <strong>got</strong> the farmer to go for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard0DOWNHazard100.gif",
+//             picture: "../images/DOWNHazard0DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard placing a rock <strong>enabled</strong> the farmer to go for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard0DOWNHazard100.gif",
+//             picture: "../images/DOWNHazard0DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard placing a rock <strong>allowed</strong> the farmer to go for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard0DOWNHazard100.gif",
+//             picture: "../images/DOWNHazard0DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard placing a rock <strong>let</strong> the farmer go for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard0DOWNHazard100.gif",
+//             picture: "../images/DOWNHazard0DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard placing a rock <strong>prevented</strong> the farmer from going for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard0DOWNHazard100.gif",
+//             picture: "../images/DOWNHazard0DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard placing a rock <strong>stopped</strong> the farmer from going for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard0DOWNHazard100.gif",
+//             picture: "../images/DOWNHazard0DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard placing the rock <strong>made</strong> the farmer go for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard0DOWNHazard100.gif",
+//             picture: "../images/DOWNHazard0DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
@@ -368,55 +368,55 @@
 // // //The wizard leaving the path blocked {} the farmer to go for the apple. + 100 DOWN 100 DOWN
 //         {
 //             question: `The wizard <strong>moved</strong> his wand.`,
-//             picture: "images/DOWNHazard100DOWNHazard100.gif",
+//             picture: "../images/DOWNHazard100DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard leaving the path blocked <strong>caused</strong> the farmer to go for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100DOWNHazard100.gif",
+//             picture: "../images/DOWNHazard100DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard leaving the path blocked <strong>got</strong> the farmer to go for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100DOWNHazard100.gif",
+//             picture: "../images/DOWNHazard100DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard leaving the path blocked <strong>enabled</strong> the farmer to go for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100DOWNHazard100.gif",
+//             picture: "../images/DOWNHazard100DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard leaving the path blocked <strong>allowed</strong> the farmer to go for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100DOWNHazard100.gif",
+//             picture: "../images/DOWNHazard100DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard leaving the path blocked <strong>let</strong> the farmer go for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100DOWNHazard100.gif",
+//             picture: "../images/DOWNHazard100DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard leaving the path blocked <strong>prevented</strong> the farmer from going for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100DOWNHazard100.gif",
+//             picture: "../images/DOWNHazard100DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard leaving the path blocked <strong>stopped</strong> the farmer from going for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100DOWNHazard100.gif",
+//             picture: "../images/DOWNHazard100DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The wizard leaving the path blocked <strong>made</strong> the farmer go for the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100DOWNHazard100.gif",
+//             picture: "../images/DOWNHazard100DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
@@ -472,61 +472,61 @@
 // // The wizard removing the rock {} the farmer to go for the apple. + 100 DOWN 0 UP
 //         {
 //             question: `The wizard <strong>moved</strong> his wand.`,
-//             picture: "images/DOWNHazard100UPHazard0.gif",
+//             picture: "../images/DOWNHazard100UPHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The disappearance of the rock <strong>caused</strong> the farmer to reach the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100UPHazard0.gif",
+//             picture: "../images/DOWNHazard100UPHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The disappearance of the rock <strong>got</strong> the farmer to reach the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100UPHazard0.gif",
+//             picture: "../images/DOWNHazard100UPHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The disappearance of the rock <strong>enabled</strong> the farmer to reach the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100UPHazard0.gif",
+//             picture: "../images/DOWNHazard100UPHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The disappearance of the rock <strong>allowed</strong> the farmer to reach the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100UPHazard0.gif",
+//             picture: "../images/DOWNHazard100UPHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The disappearance of the rock <strong>let</strong> the farmer reach the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100UPHazard0.gif",
+//             picture: "../images/DOWNHazard100UPHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The disappearance of the rock <strong>prevented</strong> the farmer from reaching the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100UPHazard0.gif",
+//             picture: "../images/DOWNHazard100UPHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The disappearance of the rock <strong>stopped</strong> the farmer from reaching the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100UPHazard0.gif",
+//             picture: "../images/DOWNHazard100UPHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The disappearance of the rock <strong>blocked</strong> the farmer from reaching the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100UPHazard0.gif",
+//             picture: "../images/DOWNHazard100UPHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The disappearance of the rock <strong>made</strong> the farmer reach the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100UPHazard0.gif",
+//             picture: "../images/DOWNHazard100UPHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
@@ -535,61 +535,61 @@
 // [
 //         {
 //             question: `The wizard <strong>moved</strong> his wand.`,
-//             picture: "images/DOWNHazard100DOWNHazard0.gif",
+//             picture: "../images/DOWNHazard100DOWNHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The disappearance of the rock <strong>caused</strong> the farmer to reach the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100DOWNHazard0.gif",
+//             picture: "../images/DOWNHazard100DOWNHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The disappearance of the rock <strong>got</strong> the farmer to reach the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100DOWNHazard0.gif",
+//             picture: "../images/DOWNHazard100DOWNHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //           },
 //           {
 //             question: `The disappearance of the rock <strong>enabled</strong> the farmer to reach the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100DOWNHazard0.gif",
+//             picture: "../images/DOWNHazard100DOWNHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //           },
 //           {
 //             question: `The disappearance of the rock <strong>allowed</strong> the farmer to reach the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100DOWNHazard0.gif",
+//             picture: "../images/DOWNHazard100DOWNHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //           },
 //           {
 //             question: `The disappearance of the rock <strong>let</strong> the farmer reach the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100DOWNHazard0.gif",
+//             picture: "../images/DOWNHazard100DOWNHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //           },
 //           {
 //             question: `The disappearance of the rock <strong>prevented</strong> the farmer from reaching the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100DOWNHazard0.gif",
+//             picture: "../images/DOWNHazard100DOWNHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //           },
 //           {
 //             question: `The disappearance of the rock <strong>stopped</strong> the farmer from reaching the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100DOWNHazard0.gif",
+//             picture: "../images/DOWNHazard100DOWNHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //           },
 //           {
 //             question: `The disappearance of the rock <strong>blocked</strong> the farmer from reaching the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100DOWNHazard0.gif",
+//             picture: "../images/DOWNHazard100DOWNHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //           },
 //           {
 //               question: `The disappearance of the rock <strong>made</strong> the farmer reach the <strong>apple</strong>.`,
-//               picture: "images/DOWNHazard100DOWNHazard0.gif",
+//               picture: "../images/DOWNHazard100DOWNHazard0.gif",
 //               optionleft: 'Not confident',
 //               optionright: 'Very confident'
 //           },
@@ -598,61 +598,61 @@
 // [
 //         {
 //             question: `The wizard <strong>moved</strong> his wand.`,
-//             picture: "images/UPHazard0UPHazard0.gif",
+//             picture: "../images/UPHazard0UPHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The absence of the rock <strong>caused</strong> the farmer to reach the <strong>apple</strong>.`,
-//             picture: "images/UPHazard0UPHazard0.gif",
+//             picture: "../images/UPHazard0UPHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The absence of the rock <strong>got</strong> the farmer to reach the <strong>apple</strong>.`,
-//             picture: "images/UPHazard0UPHazard0.gif",
+//             picture: "../images/UPHazard0UPHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The absence of the rock <strong>enabled</strong> the farmer to reach the <strong>apple</strong>.`,
-//             picture: "images/UPHazard0UPHazard0.gif",
+//             picture: "../images/UPHazard0UPHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The absence of the rock <strong>allowed</strong> the farmer to reach the <strong>apple</strong>.`,
-//             picture: "images/UPHazard0UPHazard0.gif",
+//             picture: "../images/UPHazard0UPHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The absence of the rock <strong>let</strong> the farmer reach the <strong>apple</strong>.`,
-//             picture: "images/UPHazard0UPHazard0.gif",
+//             picture: "../images/UPHazard0UPHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The absence of the rock <strong>prevented</strong> the farmer from reaching the <strong>apple</strong>.`,
-//             picture: "images/UPHazard0UPHazard0.gif",
+//             picture: "../images/UPHazard0UPHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The absence of the rock <strong>stopped</strong> the farmer from reaching the <strong>apple</strong>.`,
-//             picture: "images/UPHazard0UPHazard0.gif",
+//             picture: "../images/UPHazard0UPHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The absence of the rock <strong>blocked</strong> the farmer from reaching the <strong>apple</strong>.`,
-//             picture: "images/UPHazard0UPHazard0.gif",
+//             picture: "../images/UPHazard0UPHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The absence of the rock <strong>made</strong> the farmer reach the <strong>apple</strong>.`,
-//             picture: "images/UPHazard0UPHazard0.gif",
+//             picture: "../images/UPHazard0UPHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
@@ -661,61 +661,61 @@
 // [
 //         {
 //             question: `The wizard <strong>moved</strong> his wand.`,
-//             picture: "images/DOWNHazard0DOWNHazard0.gif",
+//             picture: "../images/DOWNHazard0DOWNHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The absence of the rock <strong>caused</strong> the farmer to reach the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard0DOWNHazard0.gif",
+//             picture: "../images/DOWNHazard0DOWNHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The absence of the rock <strong>got</strong> the farmer to reach the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard0DOWNHazard0.gif",
+//             picture: "../images/DOWNHazard0DOWNHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The absence of the rock <strong>enabled</strong> the farmer to reach the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard0DOWNHazard0.gif",
+//             picture: "../images/DOWNHazard0DOWNHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The absence of the rock <strong>allowed</strong> the farmer to reach the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard0DOWNHazard0.gif",
+//             picture: "../images/DOWNHazard0DOWNHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The absence of the rock <strong>let</strong> the farmer reach the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard0DOWNHazard0.gif",
+//             picture: "../images/DOWNHazard0DOWNHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The absence of the rock <strong>prevented</strong> the farmer from reaching the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard0DOWNHazard0.gif",
+//             picture: "../images/DOWNHazard0DOWNHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The absence of the rock <strong>stopped</strong> the farmer from reaching the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard0DOWNHazard0.gif",
+//             picture: "../images/DOWNHazard0DOWNHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The absence of the rock <strong>blocked</strong> the farmer from reaching the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard0DOWNHazard0.gif",
+//             picture: "../images/DOWNHazard0DOWNHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The absence of the rock <strong>made</strong> the farmer reach the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard0DOWNHazard0.gif",
+//             picture: "../images/DOWNHazard0DOWNHazard0.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
@@ -724,61 +724,61 @@
 // // The wizard placing a rock {} the farmer to go for the apple. + 0 UP 100 DOWN
 //         {
 //             question: `The wizard <strong>moved</strong> his wand.`,
-//             picture: "images/UPHazard0DOWNHazard100.gif",
+//             picture: "../images/UPHazard0DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The appearance of the rock <strong>caused</strong> the farmer to reach the <strong>apple</strong>.`,
-//             picture: "images/UPHazard0DOWNHazard100.gif",
+//             picture: "../images/UPHazard0DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The appearance of the rock <strong>got</strong> the farmer to reach the <strong>apple</strong>.`,
-//             picture: "images/UPHazard0DOWNHazard100.gif",
+//             picture: "../images/UPHazard0DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The appearance of the rock <strong>enabled</strong> the farmer to reach the <strong>apple</strong>.`,
-//             picture: "images/UPHazard0DOWNHazard100.gif",
+//             picture: "../images/UPHazard0DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The appearance of the rock <strong>allowed</strong> the farmer to reach the <strong>apple</strong>.`,
-//             picture: "images/UPHazard0DOWNHazard100.gif",
+//             picture: "../images/UPHazard0DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The appearance of the rock <strong>let</strong> the farmer reach the <strong>apple</strong>.`,
-//             picture: "images/UPHazard0DOWNHazard100.gif",
+//             picture: "../images/UPHazard0DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The appearance of the rock <strong>prevented</strong> the farmer from reaching the <strong>apple</strong>.`,
-//             picture: "images/UPHazard0DOWNHazard100.gif",
+//             picture: "../images/UPHazard0DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The appearance of the rock <strong>stopped</strong> the farmer from reaching the <strong>apple</strong>.`,
-//             picture: "images/UPHazard0DOWNHazard100.gif",
+//             picture: "../images/UPHazard0DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The appearance of the rock <strong>blocked</strong> the farmer from reaching the <strong>apple</strong>.`,
-//             picture: "images/UPHazard0DOWNHazard100.gif",
+//             picture: "../images/UPHazard0DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The appearance of the rock <strong>made</strong> the farmer reach the <strong>apple</strong>.`,
-//             picture: "images/UPHazard0DOWNHazard100.gif",
+//             picture: "../images/UPHazard0DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
@@ -787,61 +787,61 @@
 // // // The wizard placing a rock {} the farmer to go for the apple. + 0 DOWN 100 DOWN
 //         {
 //             question: `The wizard <strong>moved</strong> his wand.`,
-//             picture: "images/DOWNHazard0DOWNHazard100.gif",
+//             picture: "../images/DOWNHazard0DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The appearance of the rock <strong>caused</strong> the farmer to reach the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard0DOWNHazard100.gif",
+//             picture: "../images/DOWNHazard0DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The appearance of the rock <strong>got</strong> the farmer to reach the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard0DOWNHazard100.gif",
+//             picture: "../images/DOWNHazard0DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The appearance of the rock <strong>enabled</strong> the farmer to reach the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard0DOWNHazard100.gif",
+//             picture: "../images/DOWNHazard0DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The appearance of the rock <strong>allowed</strong> the farmer to reach the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard0DOWNHazard100.gif",
+//             picture: "../images/DOWNHazard0DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The appearance of the rock <strong>let</strong> the farmer reach the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard0DOWNHazard100.gif",
+//             picture: "../images/DOWNHazard0DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The appearance of the rock <strong>prevented</strong> the farmer from reaching the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard0DOWNHazard100.gif",
+//             picture: "../images/DOWNHazard0DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The appearance of the rock <strong>stopped</strong> the farmer from reaching the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard0DOWNHazard100.gif",
+//             picture: "../images/DOWNHazard0DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The appearance of the rock <strong>blocked</strong> the farmer from reaching the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard0DOWNHazard100.gif",
+//             picture: "../images/DOWNHazard0DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The appearance of the rock <strong>made</strong> the farmer reach the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard0DOWNHazard100.gif",
+//             picture: "../images/DOWNHazard0DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
@@ -850,61 +850,61 @@
 // // //The wizard leaving the path blocked {} the farmer to go for the apple. + 100 DOWN 100 DOWN
 //         {
 //             question: `The wizard <strong>moved</strong> his wand.`,
-//             picture: "images/DOWNHazard100DOWNHazard100.gif",
+//             picture: "../images/DOWNHazard100DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The presence of the rock <strong>caused</strong> the farmer to reach the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100DOWNHazard100.gif",
+//             picture: "../images/DOWNHazard100DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The presence of the rock <strong>got</strong> the farmer to reach the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100DOWNHazard100.gif",
+//             picture: "../images/DOWNHazard100DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The presence of the rock <strong>enabled</strong> the farmer to reach the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100DOWNHazard100.gif",
+//             picture: "../images/DOWNHazard100DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The presence of the rock <strong>allowed</strong> the farmer to reach the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100DOWNHazard100.gif",
+//             picture: "../images/DOWNHazard100DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The presence of the rock <strong>let</strong> the farmer reach the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100DOWNHazard100.gif",
+//             picture: "../images/DOWNHazard100DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The presence of the rock <strong>prevented</strong> the farmer from reaching the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100DOWNHazard100.gif",
+//             picture: "../images/DOWNHazard100DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The presence of the rock <strong>stopped</strong> the farmer from reaching the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100DOWNHazard100.gif",
+//             picture: "../images/DOWNHazard100DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The presence of the rock <strong>blocked</strong> the farmer from reaching the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100DOWNHazard100.gif",
+//             picture: "../images/DOWNHazard100DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
 //         {
 //             question: `The presence of the rock <strong>made</strong> the farmer reach the <strong>apple</strong>.`,
-//             picture: "images/DOWNHazard100DOWNHazard100.gif",
+//             picture: "../images/DOWNHazard100DOWNHazard100.gif",
 //             optionleft: 'Not confident',
 //             optionright: 'Very confident'
 //         },
@@ -950,61 +950,61 @@ const trial_info = { slider_rating: [
 // The wizard removing the rock {} the farmer to go for the apple. + 100 DOWN 0 UP
         {
             question: `The wizard <strong>moved</strong> his wand.`,
-            picture: "images/DOWNHazard100UPHazard0.gif",
+            picture: "../images/DOWNHazard100UPHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The disappearance of the rock <strong>caused</strong> the farmer to reach the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard100UPHazard0.gif",
+            question: `The disappearance of the rock <strong>caused</strong> the farmer to reach the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard100UPHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The disappearance of the rock <strong>got</strong> the farmer to reach the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard100UPHazard0.gif",
+            question: `The disappearance of the rock <strong>got</strong> the farmer to reach the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard100UPHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The disappearance of the rock <strong>enabled</strong> the farmer to reach the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard100UPHazard0.gif",
+            question: `The disappearance of the rock <strong>enabled</strong> the farmer to reach the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard100UPHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The disappearance of the rock <strong>allowed</strong> the farmer to reach the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard100UPHazard0.gif",
+            question: `The disappearance of the rock <strong>allowed</strong> the farmer to reach the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard100UPHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The disappearance of the rock <strong>let</strong> the farmer reach the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard100UPHazard0.gif",
+            question: `The disappearance of the rock <strong>let</strong> the farmer reach the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard100UPHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The disappearance of the rock <strong>prevented</strong> the farmer from reaching the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard100UPHazard0.gif",
+            question: `The disappearance of the rock <strong>prevented</strong> the farmer from reaching the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard100UPHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The disappearance of the rock <strong>stopped</strong> the farmer from reaching the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard100UPHazard0.gif",
+            question: `The disappearance of the rock <strong>stopped</strong> the farmer from reaching the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard100UPHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The disappearance of the rock <strong>blocked</strong> the farmer from reaching the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard100UPHazard0.gif",
+            question: `The disappearance of the rock <strong>blocked</strong> the farmer from reaching the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard100UPHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The disappearance of the rock <strong>made</strong> the farmer reach the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard100UPHazard0.gif",
+            question: `The disappearance of the rock <strong>made</strong> the farmer reach the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard100UPHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
@@ -1013,61 +1013,61 @@ const trial_info = { slider_rating: [
 [
         {
             question: `The wizard <strong>moved</strong> his wand.`,
-            picture: "images/DOWNHazard100DOWNHazard0.gif",
+            picture: "../images/DOWNHazard100DOWNHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The disappearance of the rock <strong>caused</strong> the farmer to reach the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard100DOWNHazard0.gif",
+            question: `The disappearance of the rock <strong>caused</strong> the farmer to reach the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard100DOWNHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The disappearance of the rock <strong>got</strong> the farmer to reach the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard100DOWNHazard0.gif",
+            question: `The disappearance of the rock <strong>got</strong> the farmer to reach the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard100DOWNHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
           },
           {
-            question: `The disappearance of the rock <strong>enabled</strong> the farmer to reach the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard100DOWNHazard0.gif",
+            question: `The disappearance of the rock <strong>enabled</strong> the farmer to reach the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard100DOWNHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
           },
           {
-            question: `The disappearance of the rock <strong>allowed</strong> the farmer to reach the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard100DOWNHazard0.gif",
+            question: `The disappearance of the rock <strong>allowed</strong> the farmer to reach the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard100DOWNHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
           },
           {
-            question: `The disappearance of the rock <strong>let</strong> the farmer reach the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard100DOWNHazard0.gif",
+            question: `The disappearance of the rock <strong>let</strong> the farmer reach the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard100DOWNHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
           },
           {
-            question: `The disappearance of the rock <strong>prevented</strong> the farmer from reaching the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard100DOWNHazard0.gif",
+            question: `The disappearance of the rock <strong>prevented</strong> the farmer from reaching the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard100DOWNHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
           },
           {
-            question: `The disappearance of the rock <strong>stopped</strong> the farmer from reaching the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard100DOWNHazard0.gif",
+            question: `The disappearance of the rock <strong>stopped</strong> the farmer from reaching the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard100DOWNHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
           },
           {
-            question: `The disappearance of the rock <strong>blocked</strong> the farmer from reaching the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard100DOWNHazard0.gif",
+            question: `The disappearance of the rock <strong>blocked</strong> the farmer from reaching the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard100DOWNHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
           },
           {
-              question: `The disappearance of the rock <strong>made</strong> the farmer reach the <strong>banana</strong>.`,
-              picture: "images/DOWNHazard100DOWNHazard0.gif",
+              question: `The disappearance of the rock <strong>made</strong> the farmer reach the <strong>apple</strong>.`,
+              picture: "../images/DOWNHazard100DOWNHazard0.gif",
               optionleft: 'Not confident',
               optionright: 'Very confident'
           },
@@ -1076,61 +1076,61 @@ const trial_info = { slider_rating: [
 [
         {
             question: `The wizard <strong>moved</strong> his wand.`,
-            picture: "images/UPHazard0UPHazard0.gif",
+            picture: "../images/UPHazard0UPHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The absence of the rock <strong>caused</strong> the farmer to reach the <strong>banana</strong>.`,
-            picture: "images/UPHazard0UPHazard0.gif",
+            question: `The absence of the rock <strong>caused</strong> the farmer to reach the <strong>apple</strong>.`,
+            picture: "../images/UPHazard0UPHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The absence of the rock <strong>got</strong> the farmer to reach the <strong>banana</strong>.`,
-            picture: "images/UPHazard0UPHazard0.gif",
+            question: `The absence of the rock <strong>got</strong> the farmer to reach the <strong>apple</strong>.`,
+            picture: "../images/UPHazard0UPHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The absence of the rock <strong>enabled</strong> the farmer to reach the <strong>banana</strong>.`,
-            picture: "images/UPHazard0UPHazard0.gif",
+            question: `The absence of the rock <strong>enabled</strong> the farmer to reach the <strong>apple</strong>.`,
+            picture: "../images/UPHazard0UPHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The absence of the rock <strong>allowed</strong> the farmer to reach the <strong>banana</strong>.`,
-            picture: "images/UPHazard0UPHazard0.gif",
+            question: `The absence of the rock <strong>allowed</strong> the farmer to reach the <strong>apple</strong>.`,
+            picture: "../images/UPHazard0UPHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The absence of the rock <strong>let</strong> the farmer reach the <strong>banana</strong>.`,
-            picture: "images/UPHazard0UPHazard0.gif",
+            question: `The absence of the rock <strong>let</strong> the farmer reach the <strong>apple</strong>.`,
+            picture: "../images/UPHazard0UPHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The absence of the rock <strong>prevented</strong> the farmer from reaching the <strong>banana</strong>.`,
-            picture: "images/UPHazard0UPHazard0.gif",
+            question: `The absence of the rock <strong>prevented</strong> the farmer from reaching the <strong>apple</strong>.`,
+            picture: "../images/UPHazard0UPHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The absence of the rock <strong>stopped</strong> the farmer from reaching the <strong>banana</strong>.`,
-            picture: "images/UPHazard0UPHazard0.gif",
+            question: `The absence of the rock <strong>stopped</strong> the farmer from reaching the <strong>apple</strong>.`,
+            picture: "../images/UPHazard0UPHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The absence of the rock <strong>blocked</strong> the farmer from reaching the <strong>banana</strong>.`,
-            picture: "images/UPHazard0UPHazard0.gif",
+            question: `The absence of the rock <strong>blocked</strong> the farmer from reaching the <strong>apple</strong>.`,
+            picture: "../images/UPHazard0UPHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The absence of the rock <strong>made</strong> the farmer reach the <strong>banana</strong>.`,
-            picture: "images/UPHazard0UPHazard0.gif",
+            question: `The absence of the rock <strong>made</strong> the farmer reach the <strong>apple</strong>.`,
+            picture: "../images/UPHazard0UPHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
@@ -1139,61 +1139,61 @@ const trial_info = { slider_rating: [
 [
         {
             question: `The wizard <strong>moved</strong> his wand.`,
-            picture: "images/DOWNHazard0DOWNHazard0.gif",
+            picture: "../images/DOWNHazard0DOWNHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The absence of the rock <strong>caused</strong> the farmer to reach the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard0DOWNHazard0.gif",
+            question: `The absence of the rock <strong>caused</strong> the farmer to reach the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard0DOWNHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The absence of the rock <strong>got</strong> the farmer to reach the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard0DOWNHazard0.gif",
+            question: `The absence of the rock <strong>got</strong> the farmer to reach the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard0DOWNHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The absence of the rock <strong>enabled</strong> the farmer to reach the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard0DOWNHazard0.gif",
+            question: `The absence of the rock <strong>enabled</strong> the farmer to reach the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard0DOWNHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The absence of the rock <strong>allowed</strong> the farmer to reach the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard0DOWNHazard0.gif",
+            question: `The absence of the rock <strong>allowed</strong> the farmer to reach the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard0DOWNHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The absence of the rock <strong>let</strong> the farmer reach the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard0DOWNHazard0.gif",
+            question: `The absence of the rock <strong>let</strong> the farmer reach the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard0DOWNHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The absence of the rock <strong>prevented</strong> the farmer from reaching the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard0DOWNHazard0.gif",
+            question: `The absence of the rock <strong>prevented</strong> the farmer from reaching the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard0DOWNHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The absence of the rock <strong>stopped</strong> the farmer from reaching the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard0DOWNHazard0.gif",
+            question: `The absence of the rock <strong>stopped</strong> the farmer from reaching the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard0DOWNHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The absence of the rock <strong>blocked</strong> the farmer from reaching the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard0DOWNHazard0.gif",
+            question: `The absence of the rock <strong>blocked</strong> the farmer from reaching the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard0DOWNHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The absence of the rock <strong>made</strong> the farmer reach the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard0DOWNHazard0.gif",
+            question: `The absence of the rock <strong>made</strong> the farmer reach the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard0DOWNHazard0.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
@@ -1202,61 +1202,61 @@ const trial_info = { slider_rating: [
 // The wizard placing a rock {} the farmer to go for the apple. + 0 UP 100 DOWN
         {
             question: `The wizard <strong>moved</strong> his wand.`,
-            picture: "images/UPHazard0DOWNHazard100.gif",
+            picture: "../images/UPHazard0DOWNHazard100.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The appearance of the rock <strong>caused</strong> the farmer to reach the <strong>banana</strong>.`,
-            picture: "images/UPHazard0DOWNHazard100.gif",
+            question: `The appearance of the rock <strong>caused</strong> the farmer to reach the <strong>apple</strong>.`,
+            picture: "../images/UPHazard0DOWNHazard100.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The appearance of the rock <strong>got</strong> the farmer to reach the <strong>banana</strong>.`,
-            picture: "images/UPHazard0DOWNHazard100.gif",
+            question: `The appearance of the rock <strong>got</strong> the farmer to reach the <strong>apple</strong>.`,
+            picture: "../images/UPHazard0DOWNHazard100.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The appearance of the rock <strong>enabled</strong> the farmer to reach the <strong>banana</strong>.`,
-            picture: "images/UPHazard0DOWNHazard100.gif",
+            question: `The appearance of the rock <strong>enabled</strong> the farmer to reach the <strong>apple</strong>.`,
+            picture: "../images/UPHazard0DOWNHazard100.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The appearance of the rock <strong>allowed</strong> the farmer to reach the <strong>banana</strong>.`,
-            picture: "images/UPHazard0DOWNHazard100.gif",
+            question: `The appearance of the rock <strong>allowed</strong> the farmer to reach the <strong>apple</strong>.`,
+            picture: "../images/UPHazard0DOWNHazard100.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The appearance of the rock <strong>let</strong> the farmer reach the <strong>banana</strong>.`,
-            picture: "images/UPHazard0DOWNHazard100.gif",
+            question: `The appearance of the rock <strong>let</strong> the farmer reach the <strong>apple</strong>.`,
+            picture: "../images/UPHazard0DOWNHazard100.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The appearance of the rock <strong>prevented</strong> the farmer from reaching the <strong>banana</strong>.`,
-            picture: "images/UPHazard0DOWNHazard100.gif",
+            question: `The appearance of the rock <strong>prevented</strong> the farmer from reaching the <strong>apple</strong>.`,
+            picture: "../images/UPHazard0DOWNHazard100.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The appearance of the rock <strong>stopped</strong> the farmer from reaching the <strong>banana</strong>.`,
-            picture: "images/UPHazard0DOWNHazard100.gif",
+            question: `The appearance of the rock <strong>stopped</strong> the farmer from reaching the <strong>apple</strong>.`,
+            picture: "../images/UPHazard0DOWNHazard100.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The appearance of the rock <strong>blocked</strong> the farmer from reaching the <strong>banana</strong>.`,
-            picture: "images/UPHazard0DOWNHazard100.gif",
+            question: `The appearance of the rock <strong>blocked</strong> the farmer from reaching the <strong>apple</strong>.`,
+            picture: "../images/UPHazard0DOWNHazard100.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The appearance of the rock <strong>made</strong> the farmer reach the <strong>banana</strong>.`,
-            picture: "images/UPHazard0DOWNHazard100.gif",
+            question: `The appearance of the rock <strong>made</strong> the farmer reach the <strong>apple</strong>.`,
+            picture: "../images/UPHazard0DOWNHazard100.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
@@ -1265,61 +1265,61 @@ const trial_info = { slider_rating: [
 // // The wizard placing a rock {} the farmer to go for the apple. + 0 DOWN 100 DOWN
         {
             question: `The wizard <strong>moved</strong> his wand.`,
-            picture: "images/DOWNHazard0DOWNHazard100.gif",
+            picture: "../images/DOWNHazard0DOWNHazard100.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The appearance of the rock <strong>caused</strong> the farmer to reach the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard0DOWNHazard100.gif",
+            question: `The appearance of the rock <strong>caused</strong> the farmer to reach the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard0DOWNHazard100.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The appearance of the rock <strong>got</strong> the farmer to reach the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard0DOWNHazard100.gif",
+            question: `The appearance of the rock <strong>got</strong> the farmer to reach the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard0DOWNHazard100.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The appearance of the rock <strong>enabled</strong> the farmer to reach the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard0DOWNHazard100.gif",
+            question: `The appearance of the rock <strong>enabled</strong> the farmer to reach the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard0DOWNHazard100.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The appearance of the rock <strong>allowed</strong> the farmer to reach the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard0DOWNHazard100.gif",
+            question: `The appearance of the rock <strong>allowed</strong> the farmer to reach the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard0DOWNHazard100.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The appearance of the rock <strong>let</strong> the farmer reach the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard0DOWNHazard100.gif",
+            question: `The appearance of the rock <strong>let</strong> the farmer reach the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard0DOWNHazard100.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The appearance of the rock <strong>prevented</strong> the farmer from reaching the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard0DOWNHazard100.gif",
+            question: `The appearance of the rock <strong>prevented</strong> the farmer from reaching the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard0DOWNHazard100.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The appearance of the rock <strong>stopped</strong> the farmer from reaching the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard0DOWNHazard100.gif",
+            question: `The appearance of the rock <strong>stopped</strong> the farmer from reaching the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard0DOWNHazard100.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The appearance of the rock <strong>blocked</strong> the farmer from reaching the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard0DOWNHazard100.gif",
+            question: `The appearance of the rock <strong>blocked</strong> the farmer from reaching the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard0DOWNHazard100.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The appearance of the rock <strong>made</strong> the farmer reach the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard0DOWNHazard100.gif",
+            question: `The appearance of the rock <strong>made</strong> the farmer reach the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard0DOWNHazard100.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
@@ -1328,61 +1328,61 @@ const trial_info = { slider_rating: [
 // //The wizard leaving the path blocked {} the farmer to go for the apple. + 100 DOWN 100 DOWN
         {
             question: `The wizard <strong>moved</strong> his wand.`,
-            picture: "images/DOWNHazard100DOWNHazard100.gif",
+            picture: "../images/DOWNHazard100DOWNHazard100.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The presence of the rock <strong>caused</strong> the farmer to reach the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard100DOWNHazard100.gif",
+            question: `The presence of the rock <strong>caused</strong> the farmer to reach the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard100DOWNHazard100.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The presence of the rock <strong>got</strong> the farmer to reach the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard100DOWNHazard100.gif",
+            question: `The presence of the rock <strong>got</strong> the farmer to reach the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard100DOWNHazard100.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The presence of the rock <strong>enabled</strong> the farmer to reach the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard100DOWNHazard100.gif",
+            question: `The presence of the rock <strong>enabled</strong> the farmer to reach the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard100DOWNHazard100.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The presence of the rock <strong>allowed</strong> the farmer to reach the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard100DOWNHazard100.gif",
+            question: `The presence of the rock <strong>allowed</strong> the farmer to reach the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard100DOWNHazard100.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The presence of the rock <strong>let</strong> the farmer reach the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard100DOWNHazard100.gif",
+            question: `The presence of the rock <strong>let</strong> the farmer reach the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard100DOWNHazard100.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The presence of the rock <strong>prevented</strong> the farmer from reaching the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard100DOWNHazard100.gif",
+            question: `The presence of the rock <strong>prevented</strong> the farmer from reaching the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard100DOWNHazard100.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The presence of the rock <strong>stopped</strong> the farmer from reaching the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard100DOWNHazard100.gif",
+            question: `The presence of the rock <strong>stopped</strong> the farmer from reaching the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard100DOWNHazard100.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The presence of the rock <strong>blocked</strong> the farmer from reaching the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard100DOWNHazard100.gif",
+            question: `The presence of the rock <strong>blocked</strong> the farmer from reaching the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard100DOWNHazard100.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },
         {
-            question: `The presence of the rock <strong>made</strong> the farmer reach the <strong>banana</strong>.`,
-            picture: "images/DOWNHazard100DOWNHazard100.gif",
+            question: `The presence of the rock <strong>made</strong> the farmer reach the <strong>apple</strong>.`,
+            picture: "../images/DOWNHazard100DOWNHazard100.gif",
             optionleft: 'Not confident',
             optionright: 'Very confident'
         },

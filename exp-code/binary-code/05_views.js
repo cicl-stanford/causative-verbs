@@ -157,7 +157,7 @@ const instructions3 = magpieViews.view_generator("instructions", {
   <br />
   <div>
   <p>
-    <img id="ex-png" src="images/example.png" class="center" height = "180px">
+    <img id="ex-png" src="../images/example.png" class="center" height = "180px">
   </p>
   </div>
   <br />
